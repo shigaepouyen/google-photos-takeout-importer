@@ -39,6 +39,8 @@ sudo apt install libimage-exiftool-perl
 
 ## Connexion Google : une fois par utilisateur
 
+**Guide complet : [Configurer Google Cloud et OAuth](docs/google-cloud-setup.md)** — projet, activation API, audience, utilisateurs test, scopes, client de bureau, Workspace, jetons et dépannage.
+
 L'outil ne demande jamais de mot de passe Google. Il utilise OAuth dans le navigateur ; chaque utilisateur crée son propre projet et son propre client.
 
 1. Créer ou sélectionner un projet dans [Google Cloud Console](https://console.cloud.google.com/).
